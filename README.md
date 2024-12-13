@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning my IT Post Grad in Humber Polytechnic, Toronto.
 - 💞️ I’m looking to collaborate on projects where my skills can be sharpened.
 - 📫 How to reach me Email: omoade980@outlook.com.
+- 💻 [portfolio](https://angular-portfolio-3r9j.vercel.app/)
 - ⚡ Fun fact: Problem solving.
 
 <!---
